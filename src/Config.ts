@@ -6,4 +6,5 @@ export interface Config {
     digitalDoorbellWebhookPort: number;
     mechanicalDoorbellName?: string;
     homebridgeIp: string;
+    digitalDoorbellName?: string;
 }
