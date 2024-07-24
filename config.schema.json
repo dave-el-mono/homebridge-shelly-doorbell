@@ -62,7 +62,13 @@
               "type": "string",
               "placeholder": "Mechanical gong",
               "required": false
-            }
+            },
+            ,
+            "digitalDoorbellName": {
+              "title": "Name for the digital doorbell",
+              "type": "string",
+              "placeholder": "Digital gong",
+              "required": false
           }
         }
       }
